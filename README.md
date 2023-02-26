@@ -33,17 +33,9 @@ In order to run the code successfully, we need to import some necessary librarie
 4. Seaborn: a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
 6. Matplotlib: a comprehensive library for creating static, animated, and interactive visualizations in Python.
 7. Warnings: a module that implements a simple filter to suppress specific warnings.
-8. 
-Here is the code to import the necessary libraries:
 
-### Import necessary libraries
-import numpy as np
-import pandas as pd
-import seaborn as sns
-import matplotlib.pyplot as plt
-import warnings
 
-##incase libarary not found
+## incase libarary not found
 Note: If any of these libraries are not installed on your system, you can use pip to install them. For example, if you need to install seaborn, you can run pip install seaborn in your command prompt or terminal.
 
 ## Step 4: Load the data
