@@ -3,11 +3,12 @@ The book recommendation system is designed to suggest books to users based on th
 
 ## STEPS TO FOLOW TO MAKE YOUR OWN BOOK_RECOMENDATION SYSTEM PROJECT 
 
-STEP 1 ### DOWNLOAD THE DATASET 
+## STEP 1 DOWNLOAD THE DATASET 
 ### BX Dataset Download Instructions
 To use the BX dataset for this project, follow these steps:
 
-Visit the following link: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+The dataset used in this project can be downloaded from [here](http://www2.informatik.uni-freiburg.de/~cziegler/BX/).
+
 
 Click on each of the following links to download the dataset files:
 
