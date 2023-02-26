@@ -34,7 +34,7 @@ In order to run the code successfully, we need to import some necessary librarie
 7. Warnings: a module that implements a simple filter to suppress specific warnings.
 
 
-## incase libarary not found
+#### incase libarary not found
 Note: If any of these libraries are not installed on your system, you can use pip to install them. For example, if you need to install seaborn, you can run pip install seaborn in your command prompt or terminal.
 
 ## Step 4: Load the data
