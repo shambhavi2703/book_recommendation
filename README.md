@@ -48,4 +48,4 @@ Clean and preprocess the data to ensure that it is ready for analysis. This may 
 Perform exploratory data analysis (EDA) to gain insight into the dataset, including identifying any missing or erroneous data, and visualizing the data.
 
 ## Step 7: Build the recommendation system
-Use machine learning algorithms to build the recommendation system. This may involve collaborative filtering, content-based filtering, or a hybrid approach.
+Build the recommendation system. This may involve collaborative filtering, content-based filtering, or a hybrid approach.
