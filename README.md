@@ -19,10 +19,9 @@ BX-Users.csv
 2. Save the files in a folder on your local machine.
 
 Note: These files are provided for research purposes only. Please refer to the website for any additional information or usage guidelines.
-Step 1: Gather data
-The first step is to obtain the data necessary to build the book recommendation system. In this case, we will use the dataset from http://www2.informatik.uni-freiburg.de/~cziegler/BX/, which includes information on books, authors, and user ratings.
 
-## Step 2: open a python
+
+## Step 2: open a Python compliler
 Create a new Python script in your preferred Python environment (e.g. Anaconda, Spyder, IDLE, Visual Studio Code).
 
 ## Step 3: Import necessary libraries
